@@ -21,7 +21,7 @@ Na área da saúde, CNNs são empregadas na análise de imagens médicas, como r
 - GANs (e.g. StyleGAN);
 - Diffusion Models;
 - Autoencoders;
-  
+
 **Aplicações práticas:**
 No contexto industrial, modelos como GANs são usados para gerar imagens de produtos em diferentes cores, estilos ou fundos, auxiliando no design e marketing.
 
@@ -32,7 +32,8 @@ Os **algoritmos** são procedimentos definidos para modificar imagens, como os f
 - GANs;
 - DeepFake;
 - Segmentação + Edição;
-- Stable Diffusion Inpainting;  
+- Stable Diffusion Inpainting;
+
 **Aplicações práticas:**
 Em relação a educação, aplicativos com a modificação de imagens auxiliam estudantes a entederem processos como a mudança ambiental ou a edição genética.
 
