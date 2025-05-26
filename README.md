@@ -2,7 +2,7 @@
 ## Parte 1 — Pesquisa Guiada: Técnicas e Algoritmos em Visão Computacional
 
 ### - Reconhecer (Detecção, classificação ou identificação de padrões ou objetos em uma imagem)
-Os **algoritmos** são conjuntos de regras ou procedimentos já definidos para realizar tarefas, como *Haar Cascade* para detecção de imagens. Por outro lado os **modelos** geralmente através do aprendizado de máquina são treinados a aprenderem padrões a partir de dados, como o *CNN (redes neurais convolucionais)* que aprende a reconhecer objetos.
+Os **algoritmos** são conjuntos de regras ou procedimentos já definidos para realizar tarefas, como *Haar Cascade* para detecção de imagens. Por outro lado os **modelos** geralmente através do aprendizado de máquina são treinados a aprenderem padrões a partir de dados, como o *CNN (redes neurais convolucionais)* que aprende a reconhecer objetos.  
 **Exemplos de técnicas ou modelos:**
 - HaarCascade;
 - YOLO;
