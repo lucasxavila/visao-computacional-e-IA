@@ -60,3 +60,6 @@ Uma proposta de solução desse problema seria a instalação de camêras integr
 | Como será o treinamento do modelo?                          | Utilização de um dataset rotulado (via Roboflow) com imagens contendo trabalhadores com e sem EPI. Dados divididos entre treino/validação/teste. Treinamento supervisionado em GPU local ou em nuvem. |
 | Onde o sistema será executado?                              | Preferencialmente em edge devices como NVIDIA Jetson, podendo ter apoio na nuvem para tarefas pesadas. |
 |Como será feita a validação e a medição da eficácia?         | Métricas: precisão (acurácia), recall, F1-score, número de falsos positivos/negativos. Validação contínua em campo com feedback dos operadores de segurança. |
+
+## Fluxograma - Esboço de arquitetura da solução
+![Arquitetura da Solução - VC e IA](https://github.com/user-attachments/assets/e5a636de-e941-4684-8594-08caad96611f)
