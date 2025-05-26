@@ -3,20 +3,20 @@
 
 ### - Reconhecer (Detecção, classificação ou identificação de padrões ou objetos em uma imagem)
 Os **algoritmos** são conjuntos de regras ou procedimentos já definidos para realizar tarefas, como *Haar Cascade* para detecção de imagens. Por outro lado os **modelos** geralmente através do aprendizado de máquina são treinados a aprenderem padrões a partir de dados, como o *CNN (redes neurais convolucionais)* que aprende a reconhecer objetos.  
-  
+
 **Exemplos de técnicas ou modelos:**
 - HaarCascade;
 - YOLO;
 - CNN;
 - ResNet;
 - OpenPose;
-  
+
 **Aplicações práticas:**
 Na área da saúde, CNNs são empregadas na análise de imagens médicas, como radiografias, para identificar anomalias ou doenças.
 
 ### - Reproduzir (Geração de imagens ou reconstrução com base em padrões aprendidos)**
 **Algoritmos** geram imagens muitas vezes se baseando em regras matemáticas ou estatísticas, para aumentar a resolução de imagens por exemplo, pode ser usado *algoritmos de interpolação*. Já os **modelos**, são treinados para gerar novas imagens que são semelhantes a um determinado conjunto de dados de treinamento, o *GANS (Redes Generativas Adversariais)* é um exemplo que aprende a criar imagens realistas após um treinamento com imagens reais.  
-  
+
 **Exemplos de técnicas ou modelos:**
 - GANs (e.g. StyleGAN);
 - Diffusion Models;
@@ -38,3 +38,9 @@ Os **algoritmos** são procedimentos definidos para modificar imagens, como os f
 Em relação a educação, aplicativos com a modificação de imagens auxiliam estudantes a entederem processos como a mudança ambiental ou a edição genética.
 
 ## Parte 2 — Proposta de Solução: Visão Computacional para Segurança na Mineração
+### Problema a ser resolvido
+> Uma mineradora está enfrentando acidentes de trabalho por não conformidade no uso de
+> Equipamentos de Proteção Individual (EPI). Funcionários acessam áreas controladas e
+> perigosas sem capacete, colete ou óculos, contrariando as normas da empresa. A empresa deseja
+> implementar um sistema de monitoramento automatizado com alertas em tempo real para
+> mitigar o problema.
